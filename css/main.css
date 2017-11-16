@@ -1,1 +1,47 @@
+body{background: white}
+img.pequeña{
+  width: 150px; height: 150px;
 
+.studentOne {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  position: relative;
+  display:block align: center;
+
+.studentTwo {
+  width: 200px;
+  height: 200px;
+  margin: 20px; 
+  
+
+
+  .studentThree {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  position: relative;
+  display:block align: center;
+
+  .studentFour {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  display:block align: center;
+
+  .studentFive {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  display:block align: center;
+
+  .studentSix {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  display:block align: center;
